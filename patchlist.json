@@ -1,0 +1,11 @@
+{
+  "versao": "1.0",
+  "siteDownload": "https://mega.nz/file/YclGRZDS#irDHqePMnWuZFXrs7S3EiRqRax5_jSRqnXfZdIX32sM",
+  "arquivosRequeridos": [
+    "main.exe",
+    "Customs.dll",
+    "Glow.dll",
+    "Texture.dll",
+    "Weapon.dll"
+  ]
+}
